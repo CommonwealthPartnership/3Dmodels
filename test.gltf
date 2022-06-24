@@ -1,0 +1,157 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cube",
+            "scale" : [
+                1.3699132204055786,
+                1.3699132204055786,
+                1.3699132204055786
+            ],
+            "translation" : [
+                0,
+                2.275419235229492,
+                0
+            ]
+        },
+        {
+            "name" : "Light",
+            "rotation" : [
+                0.16907575726509094,
+                0.7558803558349609,
+                -0.27217137813568115,
+                0.570947527885437
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "name" : "Camera",
+            "rotation" : [
+                0.483536034822464,
+                0.33687159419059753,
+                -0.20870360732078552,
+                0.7804827094078064
+            ],
+            "translation" : [
+                7.358891487121582,
+                4.958309173583984,
+                6.925790786743164
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4000000059604645
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 88,
+            "max" : [
+                1.671404242515564,
+                2.978795289993286,
+                1.671404242515564
+            ],
+            "min" : [
+                -1.671404242515564,
+                -1,
+                -1.671404242515564
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 88,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 88,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 132,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1056,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1056,
+            "byteOffset" : 1056
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 704,
+            "byteOffset" : 2112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 264,
+            "byteOffset" : 2816
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 3080,
+            "uri" : "data:application/octet-stream;base64,k/DVP9CASL6T8NW/k/DVP9CASL6T8NW/k/DVP9CASL6T8NW/k/DVP9CASL6T8NW/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/k/DVP9CASL6T8NU/k/DVP9CASL6T8NU/k/DVP9CASL6T8NU/k/DVP9CASL6T8NU/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/k/DVv9CASL6T8NW/k/DVv9CASL6T8NW/k/DVv9CASL6T8NW/k/DVv9CASL6T8NW/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/k/DVv9CASL6T8NU/k/DVv9CASL6T8NU/k/DVv9CASL6T8NU/k/DVv9CASL6T8NU/AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/mLw8P7gOtD+YvDw/mLw8P7gOtD+YvDw/mLw8P7gOtD+YvDw/mLw8P7gOtD+YvDw/mLw8v7gOtD+YvDw/mLw8v7gOtD+YvDw/mLw8v7gOtD+YvDw/mLw8v7gOtD+YvDw/mLw8P7gOtD+YvDy/mLw8P7gOtD+YvDy/mLw8P7gOtD+YvDy/mLw8P7gOtD+YvDy/mLw8v7gOtD+YvDy/mLw8v7gOtD+YvDy/mLw8v7gOtD+YvDy/mLw8v7gOtD+YvDy/mLw8Pw/mAECYvDw/mLw8Pw/mAECYvDw/mLw8Pw/mAECYvDw/mLw8Pw/mAECYvDw/mLw8vw/mAECYvDw/mLw8vw/mAECYvDw/mLw8vw/mAECYvDw/mLw8vw/mAECYvDw/mLw8Pw/mAECYvDy/mLw8Pw/mAECYvDy/mLw8Pw/mAECYvDy/mLw8Pw/mAECYvDy/mLw8vw/mAECYvDy/mLw8vw/mAECYvDy/mLw8vw/mAECYvDy/mLw8vw/mAECYvDy/Xb6gPmVJL0BdvqA+Xb6gPmVJL0BdvqA+Xb6gPmVJL0BdvqA+Xb6gPmVJL0BdvqA+Xb6gvmVJL0BdvqA+Xb6gvmVJL0BdvqA+Xb6gvmVJL0BdvqA+Xb6gvmVJL0BdvqA+Xb6gPmVJL0BdvqC+Xb6gPmVJL0BdvqC+Xb6gPmVJL0BdvqC+Xb6gPmVJL0BdvqC+Xb6gvmVJL0BdvqC+Xb6gvmVJL0BdvqC+Xb6gvmVJL0BdvqC+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"
+        }
+    ]
+}
