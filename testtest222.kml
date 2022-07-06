@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="testtest222" id="testtest222">
+	<SimpleField name="stroke" type="string"></SimpleField>
+	<SimpleField name="stroke-opacity" type="int"></SimpleField>
+	<SimpleField name="stroke-width" type="int"></SimpleField>
+	<SimpleField name="fill" type="string"></SimpleField>
+	<SimpleField name="fill-opacity" type="float"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="Square" type="int"></SimpleField>
+</Schema>
+<Folder><name>testtest222</name>
+  <Placemark>
+	<name>77:02:0014008:1079</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 29 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6541351418685,55.8634957139464 37.6541273444918,55.8634935261332 37.6531916592919,55.8626074516685 37.6531994566686,55.8626008880785 37.6534957569819,55.8625024340959 37.6535035543585,55.8625024340959 37.6544509356235,55.8633863231369 37.6544431382468,55.8633928865941 37.6541351418685,55.8634957139464</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:3290</name>
+	<description>г. Москва, ул. Искры, вл. 31, корп. 1, стр. 2, 3Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1980</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6526556381471,55.8641173066991 37.6525713761735,55.8638876397292 37.6532743617822,55.8637147131146 37.6532815842371,55.863718766091 37.6533152890266,55.8637619978123 37.6533634387258,55.8637498388955 37.6535945572821,55.864060565574 37.6530480581958,55.864128114523 37.6526556381471,55.8641173066991</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1049</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, корп. 1, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.653186478713,55.8639051692166 37.6531140385685,55.8638097532237 37.6533625485087,55.8637476480137 37.6533665729612,55.8637510355732 37.6534359947664,55.863843628751 37.6534359947664,55.8638458871184 37.6531905031655,55.8639051692166 37.653186478713,55.8639051692166</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:55</name>
+	<description>г. Москва, ул. Искры, вл. 29Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">11169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6520421154855,55.8634622791876 37.6520735924531,55.8633886798117 37.6524250852574,55.8627292231812 37.6525667316114,55.8626821187078 37.6525405008052,55.8627321672089 37.6525457469664,55.8627380552637 37.6528028088681,55.8627763275975 37.6528237935132,55.8627233351252 37.6533536558003,55.8623612179627 37.6544763343098,55.8634063436746 37.6544763343098,55.8634122316271 37.6540513952478,55.8635535422201 37.6539831951514,55.863527046523 37.6539359797001,55.8635417663569 37.6539254873776,55.8635388223906 37.6538100718299,55.8633916237894 37.6531962709626,55.8635417663569 37.6531805324788,55.8635388223906 37.6530965938986,55.8634357834283 37.6528500243195,55.863476999046 37.6528185473519,55.8634740550748 37.6527293626105,55.8634505032968 37.65247754687,55.8634711111033 37.6524513160637,55.8635241025556 37.6520421154855,55.8634622791876</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:3291</name>
+	<description>г. Москва, ул. Искры, вл. 31, корп. 1, стр. 2, 3Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6517568477945,55.8640379695098 37.6519104417417,55.8637565510948 37.6519215449186,55.8637555126467 37.6521177010441,55.863786666078 37.6521195515736,55.8637887429725 37.6521843201056,55.8636682829063 37.6524989101181,55.8637233207415 37.6524600489989,55.8638759724425 37.6524600489989,55.8638842800008 37.6524952090591,55.8639704708138 37.6522268822837,55.8640037009557 37.6522213306953,55.8640016240727 37.6522157791068,55.8639870858883 37.6522065264594,55.8639860474464 37.6520251745698,55.8640078547215 37.6520196229814,55.8640099316042 37.6520251745698,55.8640286235435 37.651934498625,55.8640390079503 37.6519252459776,55.864019277575 37.6517568477945,55.8640379695098</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1130</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 16 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6535003294475,55.8639648440268 37.6534810516015,55.863913738506 37.653610678497,55.8638980711066 37.6536306210964,55.8639488036151 37.6536266325765,55.8639499227138 37.6535003294475,55.8639648440268</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:3292</name>
+	<description>г. Москва, ул. Искры, вл. 31, корп. 1, стр. 2, 3Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6525534375345,55.8641253096882 37.652460372071,55.8638884341463 37.652460372071,55.8638697824675 37.6524969335031,55.8637242990653 37.6525334949352,55.8637280294158 37.6526032940327,55.8636758044768 37.6527428922279,55.863638500906 37.6527561872941,55.8636552875173 37.6531650105799,55.8635471070062 37.6532181908447,55.863537781086 37.6538098212908,55.8633904312491 37.6539328006532,55.8635433766384 37.6532746948761,55.8637093776599 37.6532713711095,55.8637168383633 37.6525899989665,55.8638828386436 37.6525700563672,55.8638902993137 37.652653150531,55.8641178490633 37.6526165890989,55.8641159839068 37.6525534375345,55.8641253096882</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1048</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, корп. 1, строен. 3 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6528504647423,55.8638068752019 37.6527338095195,55.8636546365933 37.6527365224317,55.8636500694258 37.6537864194368,55.8633943071902 37.6537945581733,55.8633958295894 37.653908500484,55.8635435020323 37.653908500484,55.8635541587848 37.6528694551274,55.8638068752019 37.6528504647423,55.8638068752019</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:3289</name>
+	<description>г. Москва, ул. Искры, вл. 31, корп. 1, стр. 2, 3Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6511696704021,55.8641355968738 37.6511654662866,55.864122621438 37.6511486498245,55.8641214418527 37.6511381395357,55.8640860542775 37.6511339354201,55.8640836951047 37.6511213230735,55.8640836951047 37.6511192210158,55.864074258412 37.6510771798605,55.864074258412 37.6510939963226,55.8640093810874 37.6511381395357,55.8638926016301 37.6515501428576,55.8639633771007 37.6517204095365,55.8636543232646 37.6518107980204,55.8636684784558 37.6519432276596,55.8636920704298 37.6519053906198,55.8637687442463 37.6517561445185,55.8640388707938 37.6516216128216,55.8640542054323 37.6516132045905,55.8640447687324 37.6515564490309,55.8640506666701 37.6515480407998,55.8640530258449 37.6515522449153,55.8640671808909 37.6514282235072,55.8640825155182 37.6514135091028,55.8640801563452 37.6514008967563,55.8640943113813 37.6514261214494,55.8641025684833 37.6513735700053,55.8641084664122 37.6513693658898,55.8641025684833 37.6513483453121,55.8641061072408 37.6513462432544,55.8641131847547 37.6511696704021,55.8641355968738</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1179</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 6 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515313954797,55.862792840997 37.6515272452631,55.8627936173319 37.6510679546246,55.8627159837731 37.6510665712191,55.8627128784275 37.6511149904129,55.8626228232978 37.6511246742516,55.862623599636 37.651578431268,55.8627004570427 37.6515798146735,55.8627027860527 37.6515313954797,55.862792840997</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:98</name>
+	<description>г Москва, ул Искры, вл 31, стр 6Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">650</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6516151300205,55.8628680614086 37.6510498381785,55.862772521881 37.6510498381785,55.8627669564644 37.6511258715842,55.8626213277795 37.6511357889849,55.8626213277795 37.6515903365187,55.8626973886894 37.6516895105261,55.8627382017992 37.6516151300205,55.8628680614086</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1178</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 5 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6514350145037,55.8629920939253 37.6514308642871,55.8629928702562 37.651392128932,55.8629858832781 37.6513865953099,55.8629882122709 37.6513838284988,55.86298743594 37.6513838284988,55.8629851069471 37.6513796782822,55.8629835542851 37.6513464765493,55.8629781199676 37.6513367927105,55.8629796726299 37.6513367927105,55.8629773436365 37.6513326424939,55.8629757909742 37.6512939071388,55.8629695803243 37.6512897569222,55.8629719093181 37.6512869901112,55.8629703566556 37.6512883735167,55.862968803993 37.6512551717838,55.862962593342 37.6512524049727,55.8629649223363 37.6512482547561,55.8629649223363 37.6512482547561,55.862962593342 37.6512413377284,55.8629602643477 37.6512039857789,55.8629540536953 37.6512026023734,55.86295638269 37.6511984521567,55.86295638269 37.6511984521567,55.8629540536953 37.6511956853457,55.8629525010321 37.6511624836128,55.8629470667102 37.651152799774,55.8629486193737 37.651152799774,55.8629462903785 37.6511486495574,55.8629447377149 37.65111683123,55.862939303392 37.6511071473913,55.8629408560558 37.6511071473913,55.8629385270601 37.6511029971747,55.8629369743962 37.6510656452252,55.8629307637401 37.6510628784141,55.8629330927363 37.651060111603,55.8629330927363 37.6510573447919,55.862929211076 37.6510199928424,55.8629230004186 37.6510158426258,55.8629253294153 37.6510130758147,55.8629253294153 37.6510130758147,55.8629230004186 37.6510103090036,55.8629214477542 37.6509729570541,55.8629152370956 37.6510227596535,55.8628181954267 37.6510656452252,55.862825182435 37.6510725622528,55.8628228534324 37.6510753290639,55.8628244061008 37.6510753290639,55.8628267351033 37.6511112976079,55.862832945776 37.6511126810134,55.8628306167739 37.65111683123,55.8628306167739 37.6511209814466,55.8628344984441 37.6511569499906,55.8628407091155 37.6511652504239,55.8628383801138 37.6511666338294,55.8628422617832 37.6512039857789,55.8628484724535 37.65120675259,55.8628461434522 37.6512109028066,55.8628461434522 37.6512122862121,55.8628500251208 37.6512524049727,55.8628562357898 37.6512565551893,55.8628539067891 37.6512593220004,55.8628554594563 37.6512579385949,55.8628570121234 37.6512952905444,55.8628639991247 37.6512980573554,55.8628639991247 37.6513022075721,55.8628616701244 37.6513049743831,55.8628624464578 37.6513049743831,55.862864775458 37.6513091245998,55.8628663281248 37.6513423263327,55.8628717624579 37.6513450931437,55.8628694334581 37.6513478599548,55.8628694334581 37.6513506267659,55.8628733151244 37.6513838284988,55.8628787494566 37.6513935123375,55.8628771967903 37.6513935123375,55.8628795257897 37.6513962791486,55.8628810784558 37.6514336310981,55.8628872891199 37.6514377813147,55.8628849601209 37.6514405481258,55.8628849601209 37.6514433149369,55.8628888417857 37.6514834336975,55.8628950524485 37.6514862005086,55.8628973814468 37.6514350145037,55.8629920939253</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:103</name>
+	<description>г Москва, ул Искры, вл 31, стр 5Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">650</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515318610992,55.8630163593009 37.6509671082464,55.8629254075557 37.651047309835,55.8627716329867 37.6516154044206,55.862867273339 37.6515318610992,55.8630163593009</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1175</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6510897138671,55.8636097900777 37.6510827968394,55.8636105663962 37.6506276564176,55.86353293447 37.6506276564176,55.8635298291898 37.6506774590169,55.8634374469882 37.6506829926391,55.8634374469882 37.651138133061,55.8635150791051 37.651138133061,55.8635205133475 37.6510897138671,55.8636097900777</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1174</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6509983211672,55.8637939869527 37.6509941170517,55.8637947733495 37.6505274602279,55.8637169199869 37.6505274602279,55.8637114151978 37.6505737054987,55.8636233384657 37.6505793109861,55.8636225520654 37.6510459678099,55.8637004056172 37.651044566438,55.8637066968065 37.6509983211672,55.8637939869527</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1127</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 11 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6523191558437,55.8620520074144 37.6522820554225,55.8620160130057 37.6522820554225,55.8620149543461 37.6523669462168,55.8619874291867 37.6523719767824,55.8619863705264 37.6524084483829,55.8620216591896 37.6524090772036,55.862023423622 37.6523222999472,55.8620516545282 37.6523191558437,55.8620520074144</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1129</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 15 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6534884132951,55.863891313046 37.6534860956417,55.8638904459953 37.6534157934875,55.863787700344 37.6534165660387,55.8637863997644 37.6534690995165,55.8637751280727 37.6534714171699,55.8637755615993 37.6535417193241,55.8638787408082 37.6535417193241,55.8638796078592 37.6535394016706,55.8638804749102 37.6534884132951,55.863891313046</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1128</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 14 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6536668028023,55.8638434405777 37.6535571364724,55.863701727758 37.6535591486986,55.8637005985701 37.6537452796255,55.8636622061623 37.6538569581816,55.8638056129035 37.6538579642947,55.8638090004579 37.6537543346436,55.8638344071067 37.6537503101911,55.8638344071067 37.6537442735124,55.8638259382256 37.6537422612862,55.8638253736335 37.653672839481,55.8638428759859 37.6536668028023,55.8638434405777</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1126</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 10 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6522867896674,55.8620165606654 37.6522062287527,55.8620426137643 37.6520737811473,55.8619169457147 37.6520642230726,55.8619184782544 37.6519904893541,55.8619384012642 37.6519850275972,55.8619384012642 37.6517870389086,55.8619054516655 37.6517856734693,55.8619023865852 37.6518061550578,55.8618763333923 37.6518116168147,55.8618755671217 37.6518744270194,55.861891658802 37.6518771578979,55.8618893599909 37.6518798887763,55.8618816972864 37.6518853505333,55.8618816972864 37.6519700077656,55.8618962564237 37.6519768349618,55.8618962564237 37.6520341834095,55.8618770996629 37.6520096055034,55.8618533452664 37.6520068746249,55.8618487476396 37.6520819737826,55.8618234606825 37.6520860701004,55.8618234606825 37.6522717698359,55.8620004690369 37.6522867896674,55.8620165606654</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:102</name>
+	<description>г Москва, ул Искры, вл 31А </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6525094155377,55.8637082440588 37.6523779021801,55.8636796110748 37.6524174280526,55.8636235548901 37.6525503787146,55.8636525911973 37.6525094155377,55.8637082440588</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:57</name>
+	<description>г Москва, ул Искры, вл 31, стр 1, 2Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6510066935667,55.8637976277039 37.6505487683675,55.8637214076358 37.6506593689452,55.8635014574579 37.6507389237468,55.8633555492271 37.6512007296681,55.8634328588803 37.6510125146497,55.8637812948448 37.6510066935667,55.8637976277039</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1125</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 9 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6509858109707,55.8617525672852 37.6509824692379,55.8617525672852 37.6509239889129,55.8617441281979 37.6509200902245,55.8617441281979 37.650910065026,55.861745690992 37.650908951115,55.8617453784332 37.650921761091,55.8617078713576 37.6509228750019,55.8617066211211 37.6509991779022,55.8617144350984 37.6510008487686,55.8617150602165 37.6509858109707,55.8617525672852</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1124</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 8 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6510633999334,55.86176340286 37.6510570218949,55.8617097133098 37.6510582975026,55.8617039864201 37.6515060358065,55.8616817947144 37.651512413845,55.8616825105761 37.6515162406682,55.8617326208603 37.6515149650605,55.861746222212 37.6510787072259,55.8617641187202 37.6510633999334,55.86176340286</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1123</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 7 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515731910163,55.8617529438883 37.6515326949632,55.8616768609641 37.6521225287788,55.8615721231883 37.6521753497175,55.8615671827202 37.6521859139052,55.8615681708139 37.6522334527501,55.8616452420427 37.6522299313542,55.861647218226 37.6517122861549,55.8617302178356 37.6515767124122,55.8617549200662 37.6515731910163,55.8617529438883</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1122</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 6 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">620</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6516095400448,55.8618392803616 37.6515981134744,55.8617794304888 37.6516000179028,55.8617719492482 37.6516933348945,55.8617687430018 37.6522418102744,55.8616714867351 37.6522437147028,55.8616682804804 37.6521846774223,55.8615688864536 37.6521789641371,55.8615678176992 37.6521237357134,55.8615742302249 37.6521008825726,55.8615357550548 37.6521351622839,55.8615282737673 37.6522056261347,55.8615165174554 37.6522284792756,55.8615539238898 37.6522760899856,55.8615453738509 37.6522818032708,55.8615464426059 37.6523694069773,55.8617014117662 37.6523694069773,55.8617078242698 37.6522703767004,55.8617249242744 37.6517771297442,55.8618382116147 37.6516552463265,55.8618403491085 37.6516095400448,55.8618392803616</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1121</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 5 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6522046466313,55.8615174254675 37.6521533348623,55.8614577767512 37.6521545565711,55.8614564055153 37.6525247343334,55.8613556195416 37.6525271777509,55.8613563051614 37.65257848952,55.8614159540334 37.6525760461024,55.8614173252708 37.6522083117577,55.8615174254675 37.6522046466313,55.8615174254675</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1009</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 13 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6540002387367,55.863824428744 37.6539977953191,55.8638237431678 37.6538475251384,55.8636283534598 37.6538475251384,55.8636256111411 37.6540197860773,55.8635837907571 37.6541798299283,55.8637915210731 37.6541773865107,55.8637928922266 37.6540894234781,55.8638141450999 37.6540820932254,55.8638059181826 37.654078428099,55.863805232606 37.6540002387367,55.863824428744</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1023</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 3Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#fff014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6544470847358,55.8633805200379 37.6544186261077,55.8633725349997 37.6528462868995,55.8618992673554 37.6524549807618,55.8615239544729 37.6524620954188,55.8615159690531 37.6525474713034,55.8614880200706 37.6525688152746,55.8614880200706 37.6545253459634,55.8633366023073 37.6545324606205,55.8633525723969 37.6544470847358,55.8633805200379</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1008</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 12 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6523607961339,55.8619891640013 37.6523584964468,55.8619891640013 37.6521768211637,55.8618039685843 37.6521779710073,55.861802032739 37.6522906556765,55.8617671875079 37.6522929553636,55.8617671875079 37.6524746306467,55.8619523831003 37.6524746306467,55.8619536736588 37.6523607961339,55.8619891640013</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1007</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6547524975924,55.8637834074554 37.6547461734528,55.8637807458038 37.6544457768218,55.8635003841444 37.6544489388916,55.8634968352497 37.6546133665212,55.8634409401149 37.6546181096259,55.8634409401149 37.6549216683267,55.863723963859 37.6549216683267,55.863725738296 37.6547524975924,55.8637834074554</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1006</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 27, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6543800633363,55.8637867956742 37.6543735954663,55.8637831661495 37.6541717979208,55.8635864454049 37.6541743850688,55.8635842676789 37.6543516047081,55.8635269208504 37.6543541918561,55.8635276467602 37.6545585765496,55.8637272714267 37.6545585765496,55.8637287232387 37.6543800633363,55.8637867956742</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:8</name>
+	<description>г Москва, ул Искры, вл 27Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">12499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6551578497091,55.8637760214984 37.6549602203466,55.8638264315422 37.6535498653506,55.8640028661804 37.6533702022937,55.8637608984725 37.6533073202239,55.8637608984725 37.6532713876125,55.8637104883436 37.6538822420057,55.8635592575645 37.6539720735341,55.863529011338 37.6540529219097,55.8635542165283 37.6544751300932,55.8634080261965 37.6534869832807,55.8624905432773 37.6527952805119,55.8618251025475 37.6527773142062,55.8618251025475 37.6528042636647,55.8618855976303 37.6527952805119,55.861895680135 37.652678499525,55.8619108038871 37.6525527353852,55.8619511338638 37.6524269712454,55.8619763400779 37.6524179880926,55.8620418761583 37.6522922239528,55.8620418761583 37.6522832408,55.8619813813188 37.6522023924244,55.8620065875134 37.6519867967562,55.861946092619 37.6508998352624,55.8617595661015 37.6508908521096,55.8617394010189 37.6509178015681,55.8616940295449 37.6516274706426,55.8616536993013 37.6521215440488,55.8615730386885 37.6521395103545,55.8615629561001 37.6521215440488,55.8615276670201 37.6522203587301,55.8615024605148 37.6521754429659,55.8614570887641 37.6525257859267,55.8613562624616 37.652561718538,55.8613360971697 37.653127657167,55.8618251025475 37.6533163033767,55.8620418761583 37.6545290290103,55.8631963012923 37.6551578497091,55.8637760214984</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1180</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 7 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515143062783,55.8639723132535 37.6512038485161,55.8639165095407 37.6514973281195,55.8633938562412 37.6518077858817,55.8634482996214 37.6518029349791,55.8634632715375 37.6515143062783,55.8639723132535</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:58</name>
+	<description>г Москва, ул Искры, вл 31, стр 7Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515492432895,55.8639637812544 37.651219489715,55.863908128759 37.6515046149862,55.8633738607466 37.6519310632178,55.8634462099701 37.651812054409,55.8636688221203 37.6517252771526,55.8636549088983 37.651717839102,55.8636563002208 37.6515492432895,55.8639637812544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1177</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 4 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6513193442442,55.8631872850263 37.6512806088892,55.8631818507373 37.6508531365781,55.8631119812397 37.6508531365781,55.8631088759258 37.6508987889608,55.8630211507049 37.6509140064217,55.8630227033654 37.651364996627,55.8630964546676 37.651364996627,55.8631003363112 37.6513193442442,55.8631872850263</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1045</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, корп. 1, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6520608402236,55.8638680422694 37.6518607135446,55.8638377761193 37.6518536168539,55.8638353866854 37.6519813572873,55.8635844953077 37.651988453978,55.8635741410255 37.6521914193333,55.8636075933118 37.6521545165415,55.8636776837228 37.6520608402236,55.8638680422694</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1181</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 31, строен. 8 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.651847291762,55.8633490607522 37.6518378055526,55.8633490607522 37.6515508477182,55.8632984887746 37.6515508477182,55.8632931654047 37.6518306908955,55.8627834493589 37.6518567779714,55.8627861110789 37.6521247633869,55.8628326911487 37.6521295064916,55.8628353528653 37.651847291762,55.8633490607522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:78</name>
+	<description>г Москва, ул Искры, вл 31Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">7748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6501364954659,55.8641395214225 37.6501623669461,55.8641032264901 37.650149431206,55.8640850790112 37.6501817705562,55.8640270070216 37.6502076420364,55.8640233775194 37.6502270456465,55.8639870824784 37.6504922283184,55.8638019772421 37.6505439712788,55.8637221276521 37.6509902543119,55.8637983477188 37.6510096579221,55.8637910886713 37.6511972261534,55.8634353936807 37.6507250716401,55.8633555433372 37.6509385113516,55.8629272523299 37.6509773185718,55.8629272523299 37.6515270875257,55.8630179923443 37.6516887842769,55.8627385124209 37.6518181416778,55.8627602901495 37.6518246095478,55.8627675493897 37.6515335553958,55.8632902111159 37.6515400232658,55.8633083589662 37.6520574528695,55.8633918389682 37.6520703886095,55.8634027276509 37.6520380492593,55.8634571710186 37.6520509849994,55.8634644301285 37.6524261214621,55.8635225029591 37.6524519929422,55.8635188734097 37.6524778644224,55.8634716892371 37.6527301113542,55.8634499119073 37.652840065145,55.8634789483443 37.6530987799468,55.8634353936807 37.6531828622574,55.8635442802482 37.6527624507044,55.8636531665105 37.6527495149643,55.8636531665105 37.6527365792242,55.8636386483599 37.6526072218233,55.8636749437263 37.6525296073828,55.8637293867125 37.6521868102704,55.8636713141912 37.6521738745303,55.8636785732611 37.6521156636999,55.8637838296224 37.6519216275985,55.8637511638856 37.6519151597285,55.8637402753006 37.6519410312086,55.86369672093 37.6519280954685,55.8636894618635 37.6518116738077,55.8636713141912 37.6519280954685,55.8634499119073 37.6519151597285,55.8634426527947 37.6515076839156,55.8633736911569 37.6512166297635,55.863907233269 37.6511584189331,55.8638963447277 37.6511325474529,55.8638999742418 37.6510937402327,55.8640088595071 37.6510290615322,55.8639979709943 37.650996722182,55.8640052300031 37.650860896911,55.8642447765348 37.6501364954659,55.8641395214225</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>37.6525037359026,55.863711239059 37.6525425431229,55.8636567960474 37.6525166716427,55.8636459074359 37.652419653592,55.8636277597433 37.6523743785017,55.8636785732611 37.6525037359026,55.863711239059</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:6</name>
+	<description>г Москва, ул Искры, вл 31, стр 8Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6515304983704,55.8633042166896 37.6518269424141,55.862761289777 37.6521772853749,55.862818758723 37.6524198305016,55.8627416293286 37.6520748774325,55.8633949558235 37.6518673666019,55.8633631971508 37.6515304983704,55.8633042166896</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1090</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 14 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6503260721026,55.8636934642597 37.6501765924393,55.8636662024228 37.6501709869519,55.8636641053576 37.6503821269763,55.8632918744966 37.650393337951,55.8632730007241 37.6503989434384,55.8632719521809 37.6505540285891,55.863300262837 37.6505540285891,55.8633044570065 37.6503316775899,55.8636924157279 37.6503260721026,55.8636934642597</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1088</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 11 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6502233228289,55.8630714845583 37.650217861072,55.8630680364464 37.65013252112,55.8630029053858 37.65013252112,55.8630017560132 37.6501741670166,55.8629845154196 37.6501762151754,55.8629845154196 37.6502663341647,55.8630530946245 37.6502649687255,55.8630542439956 37.6502233228289,55.8630714845583</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1089</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 13 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6516013697891,55.8625971193302 37.6515760732307,55.8625938929872 37.6512748142171,55.8625461430803 37.6513185082725,55.8624577410707 37.6513150587418,55.862455805258 37.651282863122,55.8624506430904 37.6513001107755,55.862415798441 37.6513357559259,55.8624209606133 37.6513392054566,55.8624170889842 37.6513438048309,55.8624067646379 37.6513472543616,55.8624067646379 37.651670360403,55.8624564505289 37.6516013697891,55.8625971193302</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1083</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 5 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6509836691002,55.8624881501717 37.6508275958027,55.8624617545715 37.6508254578123,55.8624569553696 37.651073464696,55.8619914299623 37.6510820166575,55.8619902301474 37.6512380899549,55.8620166260679 37.6512380899549,55.8620214253242 37.6509900830713,55.8624869503721 37.6509836691002,55.8624881501717</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1086</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 9 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6505908170385,55.86228727494 37.6504856782177,55.8621822968316 37.6504829473392,55.862181530567 37.6504747547038,55.8621845956254 37.6504706583861,55.8621838293608 37.6504474459192,55.8621608414169 37.6504460804799,55.8621570100916 37.6508051909979,55.8620420701567 37.6508161145118,55.8620397713546 37.6509499275565,55.8621715691257 37.6509499275565,55.8621738679201 37.650593547917,55.8622880412025 37.6505908170385,55.86228727494</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1044</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 21 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.652785303503,55.8627737761728 37.6527834709398,55.8627748045649 37.6525342423474,55.8627357256467 37.652555316824,55.8626868769437 37.6525589819503,55.8626863627465 37.6528082105428,55.8627264701077 37.6528091268243,55.8627280126977 37.652785303503,55.8627737761728</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1042</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 18 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6494580356284,55.8624938442583 37.649222677024,55.8623313870439 37.6499781781443,55.8619800544844 37.6502158903347,55.862139871569 37.6502135367487,55.8621425131682 37.6494674499726,55.8624925234707 37.6494580356284,55.8624938442583</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1080</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6508084385822,55.8620419444847 37.6508018090154,55.8620444247711 37.6499355456206,55.8618918868627 37.6499377554762,55.8618819656772 37.6499863722994,55.8617963953469 37.6500040511442,55.861797635498 37.6508570554054,55.8619476934841 37.650859265261,55.8619501737765 37.6508084385822,55.8620419444847</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1082</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 4 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6519384461682,55.8620350519013 37.6519342420526,55.8620358383338 37.6514731907162,55.8619587678799 37.6515236401026,55.8618612499436 37.6515334497055,55.8618612499436 37.6519888955545,55.8619375341565 37.6519384461682,55.8620350519013</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1043</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6498763587845,55.8641084488591 37.6498127221298,55.8640996372521 37.6498102427796,55.8640987097144 37.6498209866304,55.8640773763414 37.6498639620336,55.8639823035583 37.6498656149337,55.8639809122475 37.6499350367389,55.863991578962 37.6499350367389,55.8639934340425 37.6498780116846,55.8641079850903 37.6498763587845,55.8641084488591</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1081</name>
+	<description>Москва, Бабушкинский, ул. Искры, д. 33, строен. 3 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6512945550875,55.861930359667 37.6508421814767,55.8618503953221 37.6508421814767,55.8618472899074 37.6508947508871,55.8617541273488 37.6509044347259,55.8617549037044 37.6513471244979,55.8618340918918 37.6513429742813,55.8618449608461 37.6512945550875,55.861930359667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1184</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 16 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6490089941631,55.8634406962647 37.64900516734,55.8634406962647 37.6486990214911,55.8632237993915 37.6487041239219,55.863220220225 37.6487781091687,55.8631872918779 37.648798518892,55.8632001768867 37.6490842550176,55.8634027572951 37.649077876979,55.8634070522746 37.6490089941631,55.8634406962647</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1157</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 3 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6490210676326,55.8623136000346 37.6490068383185,55.8623059777434 37.6489188752859,55.8622544364965 37.6489188752859,55.8622537105629 37.6489531549971,55.862235199253 37.6489544485711,55.862235199253 37.6490559941308,55.8622943628204 37.6490210676326,55.8623136000346</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:77</name>
+	<description>г Москва, улица Искры, вл 33Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">30234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6497974507967,55.8640863362485 37.6498423665609,55.8640208036172 37.6498693160194,55.8639451889053 37.649896265478,55.8639300659453 37.6499052486308,55.8638947790156 37.6499142317836,55.8638998200075 37.6499321980893,55.8638846970298 37.6501118611462,55.8635721541723 37.6503094905087,55.8631789515216 37.6503094905087,55.8631386228196 37.6487554050671,55.8620799794168 37.6489799838882,55.8619489072742 37.6490608322637,55.8619237010422 37.6499950801592,55.8617573395009 37.6502466084388,55.8617321331446 37.6509203449019,55.8616968442184 37.6508844122905,55.861752298231 37.6519983232428,55.8619489072742 37.6521959526053,55.8620043609269 37.6522947672866,55.8619841959714 37.6523037504394,55.8620396495739 37.6524025651207,55.8620396495739 37.6524205314263,55.861979154731 37.6525822281775,55.8619438660291 37.6526900260116,55.8619085772951 37.65277985754,55.8618984947938 37.6527978238457,55.8618732885291 37.6527618912343,55.8617976696369 37.6533547793218,55.8623622871451 37.6528247733042,55.8627202100654 37.6528068069985,55.8627756626172 37.6525373124133,55.8627403746389 37.652555278719,55.862695004334 37.6525373124133,55.8626899631857 37.6521869694525,55.8628109505635 37.6521330705354,55.8628159916961 37.6517018791991,55.8627454157806 37.651594081365,55.8627000454816 37.6511269574172,55.8626244281987 37.6509652606661,55.862926896447 37.6509383112076,55.8629319375645 37.6507227155394,55.8633453069749 37.6507316986922,55.8633705122845 37.6505071198712,55.8637889180342 37.6502286421331,55.86398551677 37.6502106758274,55.8640208036172 37.650174743216,55.8640359265419 37.6501477937575,55.8640812952808 37.6501657600632,55.8640964181819 37.6501477937575,55.8641266639666 37.6499950801592,55.8641216230041 37.6497974507967,55.8640863362485</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1158</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 14 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6483052902568,55.8625637708092 37.648194042892,55.8624897261075 37.648195336466,55.8624882742492 37.6485446014484,55.8623191323852 37.6485484821705,55.8623191323852 37.6486597295353,55.862393177412 37.6486610231093,55.8623960811357 37.6483182259969,55.8625586893146 37.6483052902568,55.8625637708092</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1155</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 11 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6465983108712,55.8633920517795 37.6465937294633,55.8633910234038 37.6464553709432,55.8633272640547 37.6464562872248,55.8633257214886 37.6465818178026,55.863239337684 37.6465836503658,55.863239337684 37.6467201763227,55.8633092674453 37.6467174274779,55.863312352579 37.6465983108712,55.8633920517795</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1156</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6498644607538,55.863928645985 37.6498261206575,55.8639218003229 37.6498226351942,55.8639198444193 37.6500404766506,55.8635433311269 37.6500439621139,55.8635413752042 37.6500840449418,55.8635491988945 37.6500840449418,55.8635531107391 37.6498714316804,55.8639276680334 37.6498644607538,55.863928645985</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1154</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 12 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6468922097775,55.8630850939558 37.6468289863478,55.8630557850049 37.6468280700662,55.8630542424279 37.647014075229,55.8629287792957 37.6470159077921,55.8629287792957 37.6470791312218,55.862958602536 37.6470791312218,55.8629596309232 37.6468949586223,55.8630840655719 37.6468922097775,55.8630850939558</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1153</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 10 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6471352601648,55.8633415288562 37.6471329604777,55.8633412062281 37.6470858168916,55.8633244295632 37.6470886915005,55.8633212032807 37.6471323855559,55.8632828104979 37.6471818288291,55.8633002324376 37.6471352601648,55.8633415288562</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1152</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 13 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6476787363253,55.8626380419152 37.6475689621975,55.8625823371089 37.6475572840988,55.8625751282458 37.6478142022701,55.8624158775645 37.6478177056997,55.8624152222105 37.6479379901163,55.8624761700803 37.6479391579261,55.862478136139 37.6476857431845,55.8626347651641 37.6476787363253,55.8626380419152</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1151</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 5 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6482146184072,55.863454094778 37.6481525268548,55.8634072734827 37.6481505864938,55.8634040068786 37.6484086545086,55.86329729766 37.6484115650501,55.86329729766 37.6484494020899,55.8633261527327 37.6484494020899,55.863327241603 37.6484135054111,55.8633424857833 37.6484377599238,55.8633609965655 37.6484377599238,55.8633620854348 37.6482204394903,55.8634530059113 37.6482146184072,55.863454094778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1150</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 9 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6469829886127,55.8635826899204 37.6469798265429,55.8635826899204 37.646930814461,55.8635729304798 37.6469205377342,55.8635889004722 37.6469189566993,55.8635897876938 37.6468572963382,55.8635773665894 37.6468367428845,55.8635724868688 37.6468478101288,55.8635560732584 37.6468462290939,55.863555186036 37.6468035411516,55.8635467574224 37.6468035411516,55.8635449829772 37.6468343713321,55.8634966293141 37.646835952367,55.8634961857022 37.6470146093107,55.8635330054699 37.6469829886127,55.8635826899204</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1149</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 8 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.647432153832,55.8635245836841 37.6474102529053,55.8635251180344 37.6471398240722,55.8635224462829 37.6471398240722,55.863485041744 37.6471883869965,55.863485041744 37.6471902914249,55.8634171791313 37.6472236189219,55.8634166447796 37.6474350104746,55.8634187821865 37.647432153832,55.8635245836841</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1148</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 15 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6489711633885,55.8639154678839 37.6489686301394,55.8639154678839 37.6488225461079,55.8638841935721 37.6488208572752,55.8638832458653 37.648875744339,55.8638074292455 37.6488774331718,55.8638069553911 37.6489145874919,55.8638150109141 37.6489196539901,55.8638154847683 37.6489449864811,55.8637808933935 37.6490454720288,55.8638012691386 37.6490463164452,55.8638022168474 37.6489711633885,55.8639154678839</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1146</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 7 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6472895811052,55.8633310855167 37.6472026960509,55.8632735770001 37.6472026960509,55.8632710766279 37.6473385931871,55.8632073170819 37.6472851254613,55.8631723117965 37.6472784419956,55.8631648106599 37.6474165669537,55.8630998007479 37.6473853774471,55.863076047099 37.6477641071708,55.8628972691708 37.6477707906365,55.8628972691708 37.6478042079651,55.8629197727315 37.6479534720327,55.8628497616109 37.648133925607,55.8629697805975 37.6481383812508,55.8629747813805 37.6473987443785,55.8633248345951 37.6473942887347,55.8633248345951 37.6473564157623,55.8633010810839 37.647294036749,55.8633310855167 37.6472895811052,55.8633310855167</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1145</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 4 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6479425237636,55.8634882705565 37.6479069504783,55.8634782892861 37.6478180172652,55.8634167380622 37.6485324474106,55.8631172982839 37.6485324474106,55.8631139711622 37.6482923277352,55.8629326426033 37.6482597188904,55.8629476147182 37.6482537900095,55.8629476147182 37.6481470701538,55.8628677633721 37.648182643439,55.8628511276543 37.6481559634751,55.8628311647835 37.6481559634751,55.862824510491 37.6483190076991,55.8627579675031 37.6487369938008,55.8630740456807 37.6487458871221,55.8630773728057 37.6487577448839,55.863072382118 37.6487696026457,55.8630790363681 37.6488288914544,55.8631239525263 37.6488377847757,55.8631355974476 37.6487962826096,55.8631522330436 37.6487903537287,55.8631522330436 37.648778495967,55.8631439152465 37.6487725670861,55.8631439152465 37.6484227631144,55.8632903082151 37.6484049764718,55.8633019530866 37.6481559634751,55.863405093225 37.6481411412729,55.8634067567734 37.6479573459657,55.8634849434667 37.6479425237636,55.8634882705565</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1144</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">988</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.649819716256,55.8640369851143 37.6498157277361,55.8640381042105 37.6496641639814,55.8640146031842 37.649648209902,55.8640134840874 37.6496342500824,55.8640414614987 37.6496163017431,55.8640403424027 37.6495804050643,55.8640347469219 37.6495923706239,55.8640078886027 37.649588382104,55.8640034122143 37.6490599032224,55.863925075335 37.6490579089625,55.8639205989371 37.6491077654607,55.863816522541 37.6491157425004,55.8638154034385 37.6498695727543,55.8639284326331 37.6498675784943,55.8639373854265 37.649819716256,55.8640369851143</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1073</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 14 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6486326707731,55.8637584141879 37.6485206149245,55.8636855513619 37.648517057596,55.8636795626304 37.6490737795102,55.8634060762413 37.6491004594741,55.8633940986912 37.6491075741312,55.8633931005619 37.649221408644,55.8634729508282 37.649221408644,55.86347594521 37.6486380067658,55.8637584141879 37.6486326707731,55.8637584141879</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:22</name>
+	<description>г Москва, ул Кольская, вл 14Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">31501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6498320792748,55.8640405390566 37.6496536199605,55.8640119264814 37.6496366238353,55.8640166952454 37.6496281257727,55.8640405390566 37.6495686393346,55.8640310015339 37.6495856354598,55.8640071577168 37.649560141272,55.8639976201859 37.6490842497671,55.8639260886295 37.6490332613916,55.8639070135256 37.6490162652664,55.8639260886295 37.6484298989478,55.8637830251216 37.6480729803192,55.8637210307711 37.6477075636279,55.8636399610867 37.6474611198128,55.8636161170296 37.6470702089338,55.8636161170296 37.6469597341202,55.8635779665079 37.6467812748058,55.8635445847707 37.6467642786806,55.8635541224128 37.6462543949254,55.8634587458861 37.6472486682481,55.8627720279807 37.6479200151926,55.8623428231251 37.6478350345667,55.8622760574991 37.6485318756989,55.8619374586294 37.6502654804668,55.8631010818252 37.6503079707797,55.8631392328153 37.6503079707797,55.8631821526343 37.6501210134028,55.8635541224128 37.6499255579633,55.8638974759701 37.6499000637755,55.8639070135256 37.6498915657129,55.8639403949513 37.6498660715252,55.8639547012679 37.6498320792748,55.8640405390566</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1190</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 9 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6460028758297,55.8634086194494 37.6460028758297,55.8634064114671 37.6463504340131,55.8632143165268 37.646354368634,55.8632143165268 37.646471095722,55.8632857082439 37.646471095722,55.8632871802366 37.6463399416906,55.8633651957745 37.6463163339649,55.863351947864 37.6462717415942,55.8633754997018 37.6462494454088,55.8633637237847 37.6461300952402,55.8634329072464 37.6461104221355,55.8634299632718 37.6460028758297,55.8634086194494</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1172</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 1 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6458250872254,55.8622859495044 37.6456666244093,55.8622505602571 37.6456601565393,55.862247838006 37.6458816810883,55.861937500127 37.6458881489584,55.861937500127 37.6459463597888,55.8619511114895 37.6459625294639,55.8619320555807 37.6460967377674,55.861962000576 37.6460999717024,55.8619638154235 37.6460546966121,55.8620282424534 37.646051462677,55.8620300572977 37.6460223572618,55.8620227979197 37.6460158893918,55.8620237053421 37.645829938128,55.8622859495044 37.6458250872254,55.8622859495044</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1169</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 3 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">2104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6457760840079,55.8633776195506 37.6457720236228,55.86337875883 37.6450228825748,55.8632420450637 37.6450208523823,55.8632386272134 37.6451000298914,55.8631030522414 37.6458532313245,55.8632397664969 37.6457760840079,55.8633776195506</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1171</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 2 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6455839300223,55.8629531839959 37.6454764196491,55.8629312450597 37.645471532814,55.8629285026918 37.6454813064843,55.8629161620339 37.6454764196491,55.8629134196649 37.6452980501663,55.8628763976649 37.6452980501663,55.8628709129212 37.6456279115386,55.8623731692034 37.6456327983738,55.8623690555924 37.6456401286265,55.8623690555924 37.6460384056909,55.8624526989307 37.6460384056909,55.8624581837335 37.64600908468,55.8624993197297 37.6458918006365,55.8624746381372 37.6458820269662,55.8624760093372 37.6456156944508,55.8628777688508 37.6456108076156,55.8628887383355 37.6456279115386,55.8628942230767 37.6455912602751,55.8629504416296 37.6455839300223,55.8629531839959</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1168</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 4 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">3100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6470347924137,55.8626498013441 37.6469512490923,55.8625968691931 37.6469512490923,55.8625938444966 37.6470455721971,55.8625454493202 37.646865010825,55.8624335352439 37.6468596209333,55.8624335352439 37.6467841624495,55.8624728564426 37.6467706877202,55.8624758811486 37.6465092779725,55.8623110343313 37.6471372003561,55.8619934375737 37.6474013050496,55.8621567733733 37.6474013050496,55.8621597981039 37.6473177617282,55.8622021443069 37.6474713736418,55.862297423095 37.6474902382628,55.8622913736551 37.647595341151,55.8623564050847 37.647595341151,55.8623594297997 37.6471372003561,55.8625908197999 37.6471425902478,55.8625938444966 37.6471425902478,55.8625983815413 37.6470455721971,55.862648288998 37.6470347924137,55.8626498013441</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1167</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 5 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.646984288973,55.8619299045134 37.6469813784315,55.8619299045134 37.6468969727274,55.861873553411 37.6469260781426,55.86185885311 37.6469231676011,55.8618555863757 37.646687413738,55.8616979661186 37.646687413738,55.8616963327447 37.6468358513555,55.8616260976026 37.6468402171678,55.8616260976026 37.6471458240274,55.8618310858596 37.6471458240274,55.8618327192278 37.6470017522222,55.8619021373137 37.6470177602005,55.8619135708689 37.646984288973,55.8619299045134</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1165</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 7 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6459789406314,55.8619065977999 37.645915555505,55.8618921999865 37.6459148009201,55.8618909295909 37.6459812043859,55.861797767137 37.6459834681405,55.8617973436708 37.6460476078517,55.8618117415193 37.6460483624366,55.8618125884514 37.6459819589708,55.8619065977999 37.6459789406314,55.8619065977999</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1166</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 6 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">1316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6460808226055,55.861692244822 37.6460847392602,55.8616867498285 37.6461317391158,55.861654878851 37.6461062808607,55.8616427898527 37.6461043225334,55.8616405918526 37.6461336974432,55.8616208098461 37.6461611140256,55.8616328988513 37.6461650306803,55.861631799851 37.6465175295978,55.8613845239901 37.6465214462524,55.8613845239901 37.6468759034972,55.861544978728 37.6468759034972,55.8615471767335 37.6468445702601,55.8615614637663 37.6467877787678,55.8615944338218 37.6467838621132,55.8615944338218 37.6466056543271,55.8615109096267 37.646243363773,55.8617647786632 37.6460808226055,55.861692244822</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1164</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 8 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6466884387063,55.8616973987864 37.6466661784536,55.8616855013699 37.646496576528,55.8615861578001 37.646498696552,55.8615831834378 37.6466057577676,55.8615088243064 37.6466121178398,55.8615106089272 37.6467859598136,55.861592106524 37.6468389604153,55.8616254193611 37.6468389604153,55.8616266091047 37.6466884387063,55.8616973987864</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:1163</name>
+	<description>Москва, Бабушкинский, ул. Кольская, д. 12, строен. 17 </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6E3C14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#FFF014</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6473598646131,55.8626925953584 37.6473048877178,55.8626665426955 37.6472609062015,55.8626425468063 37.6472609062015,55.8626404900151 37.6476152017495,55.8624636055653 37.6476188668759,55.8624636055653 37.6476848391503,55.8624978855604 37.6475590031453,55.862576043836 37.6473647514483,55.8626932809546 37.6473598646131,55.8626925953584</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>77:02:0014008:2</name>
+	<description>г Москва, ул Кольская, вл 12Метка создана с использованием телеграмм-бота @pkk2kml_bot</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke">#6e3c14</SimpleData>
+		<SimpleData name="stroke-opacity">1</SimpleData>
+		<SimpleData name="stroke-width">1</SimpleData>
+		<SimpleData name="fill">#ff2600</SimpleData>
+		<SimpleData name="fill-opacity">0.6</SimpleData>
+		<SimpleData name="status">снос/реконструкция</SimpleData>
+		<SimpleData name="Square">21679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>37.6462442515813,55.863461226698 37.6450228841547,55.8632473142568 37.6449995459236,55.8632123896647 37.645007325334,55.8631992929346 37.645030663565,55.8632036585118 37.6450462223858,55.8631949273569 37.6451473547205,55.8629984758532 37.6459875310394,55.8617848200917 37.6460808839637,55.8616844080247 37.6465243103543,55.8613788044845 37.6468899426412,55.8615447038475 37.646819927948,55.8615970929728 37.6471777808245,55.8618372088932 37.6471700014142,55.8618503060826 37.6479246042191,55.8623392646582 37.6472633543385,55.8627627327372 37.6462442515813,55.863461226698</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testtest222">
+		<SimpleData name="stroke"></SimpleData>
+		<SimpleData name="fill"></SimpleData>
+		<SimpleData name="status"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
